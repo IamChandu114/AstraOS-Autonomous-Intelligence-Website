@@ -304,7 +304,7 @@ The complete AstraOS engineering project is maintained separately.
 https://github.com/IamChandu114/AstraOS
 
 **Professional website repository:**
-https://github.com/IamChandu114/Astra-New-Web
+https://github.com/IamChandu114/AstraOS-Autonomous-Runtime-Intelligence-Platform
 
 The website repository serves as the public-facing presentation and technical interface for the broader AstraOS system.
 
